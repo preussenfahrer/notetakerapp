@@ -24,12 +24,12 @@
 
 
     
- ## Installation      
+ ## Installation:      
     
  
 
     
- ## Information
+ ## Information:
     
  
 
@@ -44,17 +44,17 @@
  preussenfahrer
           
     
- ## Contribute
+ ## Contribute:
     
  
     
    
- ## Testing
+ ## Testing:
     
  
     
    
- ## Licensing
+ ## Licensing:
     
  MIT License
     
